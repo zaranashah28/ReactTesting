@@ -1,0 +1,16 @@
+{
+    "Expense Tracker": "Expense Tracker",
+    "History" : "History",
+    "Income": "Income",
+    "Expense" :"Expense",
+    "Your Balance" :"Your Balance",
+    "Add":"Add new transaction",
+    "text":"text",
+    "enter":"Enter text....",
+    "amount":"Amount",
+    "negative - expense, positive - income":"negative - expense, positive - income",
+    "enteramount":"Enter Amount....",
+    "Deposit":"Deposit"
+
+
+}
